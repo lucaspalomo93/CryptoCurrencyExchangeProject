@@ -3,7 +3,9 @@
 # Tecnologías: 
     - Java
     - Spring Boot
+    - Spring Security / JWT
     - MySQL
+    - JPA   
     - HTML
     - CSS
     - Bootstrap
