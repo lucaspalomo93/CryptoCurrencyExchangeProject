@@ -1,4 +1,4 @@
-# Proyecto final para el bootcamp de Java en Devplace.
+# Simulador Exchange de Cripto Monedas
 
 La aplicación permite comprar, vender y cambiar criptomonedas. 
 Tambien crear perfil y loguearte con tu cuenta.
